@@ -1,1 +1,40 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+.tag-2 {
+  color: red;
+  background-color: white
+}
+
+.tag-3 {
+  color: blue;
+  background-color: white
+}
+
+.tag-4 {
+  color: purple;
+  background-color: white
+}
+
+.tag-5 {
+  color: orange;
+  background-color: white
+}
+
+#wall .tag-2 {
+  display: none;
+}
+
+#wall .tag-3 {
+  display: none;
+}
+
+#wall .tag-4 {
+  display: none;
+}
+
+#wall .tag-5 {
+  display: none;
+}
